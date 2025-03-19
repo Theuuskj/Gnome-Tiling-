@@ -1,4 +1,4 @@
-# Gnome-Tiling-
+# Gnome Tiling
 Gnome rice based on workflow with a tiling window manager style✨
 ![image](https://github.com/user-attachments/assets/c25674ad-ed99-4b90-96d8-1592bc50bb93)
 
