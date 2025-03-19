@@ -1,0 +1,7 @@
+[/]
+enable-autotiling=true
+enable-window-border=true
+selected-layouts=[['1882709'], ['1882709']]
+snap-assistant-threshold=56
+window-border-color='rgb(125,174,163)'
+window-border-width=uint32 2
