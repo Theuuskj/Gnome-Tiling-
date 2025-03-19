@@ -1,5 +1,21 @@
 # Gnome-Tiling-
 Gnome rice based on workflow with a tiling window manager style✨
+#programs used
+
+Cava (https://github.com/karlstav/cava)
+
+Spicetify/Spotify (https://github.com/spicetify/cli)
+
+Cowsay (https://archlinux.org/packages/extra/any/cowsay/)
+
+unimatrix (https://github.com/will8211/unimatrix)
+
+Neovim (https://github.com/neovim/neovim)
+
+Neofetch (https://github.com/dylanaraps/neofetch)
+
+Cbonsai (https://github.com/mhzawadi/homebrew-cbonsai)
+
 # Extensions
 -Blur my Shell
 
