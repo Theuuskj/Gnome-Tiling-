@@ -2,6 +2,8 @@
 Gnome rice based on workflow with a tiling window manager style✨
 ![image](https://github.com/user-attachments/assets/c25674ad-ed99-4b90-96d8-1592bc50bb93)
 
+![image](https://github.com/user-attachments/assets/58ac21f4-cc18-456c-bf92-36730c75ca51)
+
 # programs used
 
 Cava (https://github.com/karlstav/cava)
