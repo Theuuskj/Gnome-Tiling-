@@ -12,7 +12,10 @@ Gnome rice based on workflow with a tiling window manager style✨
 -tiling shell
 
 # Wallpaper
+CREDITS:
+
 https://github.com/AngelJumbo/gruvbox-wallpapers
+
 ![anime_skull](https://github.com/user-attachments/assets/acab9a08-a34c-4027-80c8-698c02cfdaf1)
 
 # spicetify
