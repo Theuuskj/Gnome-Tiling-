@@ -1,5 +1,6 @@
 --MADE BY DARLINGI/THEUUSKJ
 --use packer.
+--REMEMBER DOWNLOAD ALL NERD FONTS
 require('packer').startup(function(use)
 use 'goolord/alpha-nvim'
 use { 'catppuccin/nvim', as = 'catppuccin' }
